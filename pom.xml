@@ -42,7 +42,7 @@
     <dependencies>
         <dependency>
             <groupId>com.zipfian</groupId>
-            <artifactId>data-engineering-assessment-distribution</artifactId>
+            <artifactId>zipfian-data-engineering-assessment</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
